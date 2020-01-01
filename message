@@ -1,0 +1,26 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   blog/models.py
+#	modified:   blog/tests.py
+#	modified:   blog/urls.py
+#	modified:   blog/views.py
+#	modified:   blog_project/settings.py
+#	modified:   blog_project/urls.py
+#	modified:   db.sqlite3
+#	modified:   templates/base.html
+#	modified:   templates/post_detail.html
+#
+# Untracked files:
+#	accounts/
+#	templates/post_delete.html
+#	templates/post_edit.html
+#	templates/post_new.html
+#	templates/registration/
+#	templates/signup.html
+#
